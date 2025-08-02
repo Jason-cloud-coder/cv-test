@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"David Cyberlark",
+    "name":"Jason Hao",
     "description":"Passionate about learning technology and sharing knowledge",
     "image":"profile.jpg",
     "bio":"My name is David, the founder of Cyberlark, a solutions architect and senior software developer that has interests in all things related to the Cloud. I graduated from the University of Wollongong with a Master of Computer Science degree in 2009. Since then, I live in a beautiful city called Brisbane on the East Coast of Australia. ",
@@ -58,7 +58,7 @@
     "skillmessage":"Technical Skills",
     "education":[
       {
-        "school":"University of Wollongong",
+        "school":"University of Tsinghua",
         "degree":"Master of Computer Science with distinction",
         "graduated":"2007 - 2009",
         "description":""
@@ -67,6 +67,18 @@
         "school":"AWS certification",
         "degree":"AWS Certified Solutions Architect - Professional",
         "graduated":"Dec 2021",
+        "description":""
+      },
+      {
+        "school":"CKA certification",
+        "degree":"CKA Certified Solutions Architect - Associate",
+        "graduated":"Dec 2019",
+        "description":""
+      },
+      {
+        "school":"CKS certification",
+        "degree":"CKS Certified Developer - Associate",
+        "graduated":"Dec 2019",
         "description":""
       }
     ],
@@ -80,7 +92,7 @@
     ],
     "skills":[
       {
-        "name":"Backend Development (Infrastructure, API, Database)",
+        "name":"Cloud Management (Infrastructure, API, Database)",
         "level":"95%"
       },
       {
